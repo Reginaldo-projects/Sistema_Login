@@ -83,7 +83,7 @@ Tela de cadastro , Tela com acesso apenas para administradores ,nessa tela será
 
 ## 🗳 Link
  
- <p align="center">Veja aqui o código do <a href="https://github.com/Reginaldo-projects/Sistema_Login/blob/main/app.py" target="_blank"></a>Projeto.</p>
+ <p>Projeto <a href="https://github.com/Reginaldo-projects/Sistema_Login/blob/main/app.py" target="_blank">aqui</a>.</p>
 
 
 
