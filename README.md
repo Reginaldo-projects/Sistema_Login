@@ -24,7 +24,7 @@
 ## 🏷 Descrição 
 
 <p align="justify">
-Tela de Login criada com PySimpleGUi uma pacote de interface gráfica, onde foi desenvolvido a logíca de verificação de acesso e tipo de acesso
+Tela de Login criada com PySimpleGUi um pacote de interface gráfica, onde foi desenvolvido a logíca de velidação de acesso e tipo de acesso: básico ou administrador.
 
 </p>
 
